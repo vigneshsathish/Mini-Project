@@ -1,2 +1,3 @@
 # Mini-Project
-Digitial clock using python
+Digitial clock using python.
+Digital clock GUI.
