@@ -1,2 +1,2 @@
-# Mini-Project
+# Digital clock
 
